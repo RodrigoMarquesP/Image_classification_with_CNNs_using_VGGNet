@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/RodrigoMarquesP/Image_classification_with_CNNs_using_VGGNet/main/files/fashion_dog.gif" width=600>
 </p>
 
-## English   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodrigoMarquesP/Image_classification_with_CNNs_using_VGGNet/blob/master/Music_Generation_with_RNNs.ipynb)
+## English   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodrigoMarquesP/Image_classification_with_CNNs_using_VGGNet/blob/main/Image_classification_with_CNNs.ipynb)
 In the real world, we face a lot of visual tasks, which can only be automated with computer vision. Computers monitor immense areas with satellites, phones have facial recognition, medical tools can diagnosis based on image exams better than the specialist doctors, but all this starts with image classification. And why not to introduce it with fashion MNIST, a challenging dataset with 10 different types of clothes to classify, and a consecrate architecture, the VGGNet, to open the gates for you to start your own visual problems solutions.
 
 
