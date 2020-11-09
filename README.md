@@ -1,7 +1,7 @@
 # Image_classification_on_fashion_MNIST_with_CNNs_using_VGGNet
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/RodrigoMarquesP/Image_classification_with_CNNs_using_VGGNet/main/files/fashion_dog.gif" width=600>
+<img src="https://raw.githubusercontent.com/RodrigoMarquesP/Image_classification_with_CNNs_using_VGGNet/main/files/deliver_results.gif" width=600>
 </p>
 
 ## English   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodrigoMarquesP/Image_classification_with_CNNs_using_VGGNet/blob/main/Image_classification_with_CNNs.ipynb)
